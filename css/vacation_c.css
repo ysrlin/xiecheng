@@ -1,0 +1,129 @@
+#qyn_container{
+	margin: 0  auto;
+	margin-top: 150px;
+	background: #F08080;
+	width:1000px;
+	height: 16228px;
+}
+#qyn_shop{
+	float:left;
+
+	width:1000px;
+	height:406px;
+}
+.qyn_shop_subnav{
+	float:left;
+	width:1000px;
+	height:52px;
+}
+.qyn_crumbs {
+	position: relative;
+    width: 100%;
+    height: 100%;
+    font-family: microsoft yahei;
+    background: #F5F8FA;
+    color: #999999;
+}
+.qyn_crumbs .qyn_crumbs_title {
+    display: inline;
+    vertical-align: baseline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+        font-size: 12px;
+    font-weight: 100;
+}
+
+.qyn_shop_main{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+	height:354px;
+}
+.qyn_shop_main_left{
+	float:left;
+	border:1px solid #000;
+	width:400px;
+	height:354px;
+}
+.qyn_shop_main_right{
+	float:left;
+	border:1px solid #000;
+	width:597px;
+	height:354px;
+}
+#qyn_calender{
+	float:left;
+    border:1px solid #000;
+    width:1000px;
+    height:401px;
+}
+#qyn_feature{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+    
+}
+.qyn_feature_subnav{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+    height:52px;
+}
+.qyn_feature_contant{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+	height:5737px;
+}
+.qyn_feature_detail{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+	height:6750px;
+}
+.qyn_feature_fee{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+	height:136px;
+}
+.qyn_feature_reserve{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+	height:955px;
+}
+.qyn_feature_visa{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+	height:155px;
+}
+.qyn_feature_comment{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+	height:1150px;
+}
+
+#qyn_seo{
+	float:left;
+	border:1px solid #000;
+	width:1000px;
+    height:390px;
+}
+#qyn_footer{
+
+	float:left;
+	background:#fff;
+	width:1000px;
+	height:149px;
+}
+.qyn_base_ft{
+    margin-top: 89px;
+    float:left;
+    background:#808080;
+	width:1000px;
+	height:36px;	
+}

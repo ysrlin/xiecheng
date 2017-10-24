@@ -1,0 +1,125 @@
+
+{
+	"diming": [
+        {
+            "pid": 1,
+            "name": "北京",
+            "href": "/startcity/Beijing"
+        },
+        {
+            "pid": 2,
+            "name": "天津",
+            "href": "/startcity/Beijing"
+        },
+        {
+            "pid": 3,
+            "name": "南京",
+            "href": "/startcity/Beijing"
+        },
+        {
+            "pid": 4,
+            "name": "厦门",
+            "href": "/startcity/Beijing"
+        },
+        {
+            "pid": 5,
+            "name": "深圳",
+            "href": "/startcity/Beijing"
+        },
+        {
+            "pid": 6,
+            "name": "沈阳",
+            "href": "/startcity/Beijing"
+        },
+        {
+            "pid": 7,
+            "name": "香港",
+            "href": "/startcity/Beijing"
+        }
+    ],
+    "banner":[
+             {"img":"http://images3.c-ctrip.com/dj/201706/tmh/sm2tmh_348x260.jpg","a":"http://vacations.ctrip.com/deals"},
+             {"img":"http://images3.c-ctrip.com/dj/201708/img/gq1_pc2_424_260.jpg","a":"http://vacations.ctrip.com/marketing/17gqzq.html"},
+             {"img":"http://images3.c-ctrip.com/dj/201709/tmh/cfsy404_129.jpg","a":"http://vacations.ctrip.com/tpp/t81.html"},
+             {"img":"http://images3.c-ctrip.com/dj/201708/img/zzx404_129.jpg","a":"http://vacations.ctrip.com/Tpp/t83.html"},
+            {"img":"http://images3.c-ctrip.com/dj/gt/20150915/outbound_0915_1.jpg","a":"http://vacations.ctrip.com/TourLeader#ctm_ref=va_home_s2_lst1_ad1"},
+            {"img":"http://images3.c-ctrip.com/dj/gt/20150915/outbound_0915_2.jpg","a":"http://pages.ctrip.com/commerce/promote/201505/vacation/dy/index.html#ctm_ref=va_hom_s2_prd_p0_l3_1_img#ctm_ref=va_home_s2_lst1_ad2"},
+             {"img":"http://pic.c-ctrip.com/VacationOnlinePic/vacation_v2/searchresult/sanya20170627.jpg","a":"http://vacations.ctrip.com/tours/d-sanya-61#ctm_ref=va_home_s2_lst2_ad1"},
+            {"img":"http://pic.c-ctrip.com/VacationOnlinePic/vacation_v2/searchresult/wy2.jpg","a":"http://vacations.ctrip.com/tours/d-yunnan-100007#ctm_ref=va_home_s2_lst2_ad2"},
+            {"img":"http://images3.c-ctrip.com/dj/gt/20160218/gzsz.jpg","a":"http://vacations.ctrip.com/whole-0B126DC2/?searchValue=%E5%91%A8%E8%BE%B9&searchText=%E5%91%A8%E8%BE%B9#ctm_ref=va_home_s2_lst3_ad1"},
+            {"img":"https://images4.c-ctrip.com/target/310i0h0000008w18lA991.jpg","a":"http://cruise.ctrip.com/activity/2017summer.html#ctm_ref=va_home_s2_lst4_ad1"},
+            {"img":"https://dimg04.c-ctrip.com/images/700j0f0000007bf3j5BAD_210_182_87.jpg","a":"http://huodong.ctrip.com/#ctm_ref=ctr_hp_ttd"},
+            {"img":"https://dimg04.c-ctrip.com/images/700n0f0000007ai7z28A4_210_182_87.jpg","a":"http://huodong.ctrip.com/wifi#ctm_ref=ctr_hp_wifi"}
+
+      ],
+    "next":[
+               {"img":"http://images3.c-ctrip.com/dj/201507/zy/sizeupPC/list1_170x180.jpg","a":"http://vacations.ctrip.com/marketing/salestar_bj2.html"},
+             {"img":"http://images3.c-ctrip.com/dj/201608/icon/zuimei_pc.jpg","a":"http://vacations.ctrip.com/destination-marketsiteui"},
+             {"img":"http://images3.c-ctrip.com/dj/201507/zy/sizeupPC/list2_170x180.jpg","a":"http://vacations.ctrip.com/marketing/tip_bj2.html"},
+             {"img":"http://images3.c-ctrip.com/dj/201608/icon/djcx_pc.jpg","a":"http://vacations.ctrip.com/marketing/djcx.html"},
+              {"img":"http://images3.c-ctrip.com/dj/201507/zy/sizeupPC/list5_170x180.jpg","a":"http://vacations.ctrip.com/marketing/travel_bj2.html"},
+             {"img":"http://images3.c-ctrip.com/dj/201701/fxb/chengpin_pc.png","a":"http://pages.ctrip.com/destinationad/201701/cptop/top_pc.html"}
+    ],
+    "carouse":[
+              {"img":"https://dimg04.c-ctrip.com/images/700r0j000000ak42uAD80_810_235_85.jpg"},
+             {"img":"https://dimg04.c-ctrip.com/images/70090i0000009he6p6EA2_810_235_85.jpg"},
+             {"img":"https://dimg04.c-ctrip.com/images/70090i00000099h0d5AD3_810_235_85.jpg"},
+             {"img":"https://dimg04.c-ctrip.com/images/700d0j000000an4pqC52A_810_235_85.jpg"},
+              {"img":"https://dimg04.c-ctrip.com/images/70070j000000ah4u7F7C2_810_235_85.jpg"},
+             {"img":"https://dimg04.c-ctrip.com/images/700s0h00000092g4vA78F_810_235_85.jpg"}
+    ],
+    "inside":[
+              {"img":"https://dimg04.c-ctrip.com/images/300r0900000041olk3982_C_500_280.jpg","a":"http://vacations.ctrip.com/grouptravel/p3884164s2.html#ctm_ref=va_hom_s2_prd_p1_l2_1_img","ptitle":"泰国曼谷+芭提雅+普吉岛8日跟团游·升级钻五★A线快艇PP岛★B线双体...","money":"3000"},
+              {"img":"https://dimg03.c-ctrip.com/images/fd/tg/g2/M03/89/1E/CghzgFWwu8uACiV2ABehx1dg_Kc144_C_228_132.jpg","a":"http://vacations.ctrip.com/grouptravel/p2277357s2.html#ctm_ref=va_hom_s2_prd_p1_l2_2_img","ptitle":"泰国普吉岛7日5晚跟团游·【多岛巡礼】2次出海★攀...","money":"2999"},
+              {"img":"https://dimg04.c-ctrip.com/images/30040e0000007018xEDA0_C_228_132.jpg","a":"http://vacations.ctrip.com/grouptravel/p16176287s2.html#ctm_ref=va_hom_s2_prd_p1_l2_5_img","ptitle":"德国+法国+瑞士+意大利11日跟团游·3-4星【爆款...","money":"6350"},
+              {"img":"https://dimg04.c-ctrip.com/images/300c0g0000007r32cC5E0_C_228_132.png","a":"http://vacations.ctrip.com/grouptravel/p4539455s2.html#ctm_ref=va_hom_s2_prd_p1_l2_3_img","ptitle":"日本大阪+京都+奈良+名古屋+富士山+东京7日...","money":"6499"},
+              {"img":"https://dimg04.c-ctrip.com/images/300m0e00000075t9t7825_C_228_132.jpg","a":"http://vacations.ctrip.com/grouptravel/p2240636s2.html#ctm_ref=va_hom_s2_prd_p1_l4_4_img","ptitle":"巴厘岛+新加坡7日6晚跟团游(5钻)·2018预售★蓝梦...","money":"6980"},
+              {"img":"https://dimg03.c-ctrip.com/images/100v08000000343pp5BB8_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p5106s2.html#ctm_ref=va_hom_s2_prd_p1_l4_6_img","ptitle":"香港3日自由行·赠DFS/周大福购物返现券【周末游精...","money":"1636"},
+              {"img":"https://dimg03.c-ctrip.com/images/100208000000363y15653_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p21138s2.html#ctm_ref=va_hom_s2_prd_p1_l4_7_img","ptitle":"普吉岛+曼谷7日6晚自由行·普进曼出/泰国全体验【...","money":"4269"},
+              {"img":"https://dimg04.c-ctrip.com/images/300w0a0000004umq4DE47_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p1882054s2.html#ctm_ref=va_hom_s2_prd_p1_l2_8_img","ptitle":"马尔代夫圣塔拉岛（中央格兰德）Centara Grand6日...","money":"158666"},
+              {"img":"https://dimg03.c-ctrip.com/images/fd/tg/g6/M00/96/9E/CggYs1brxDKAEJu0AAZFNFnjjvA908_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p2004367s2.html#ctm_ref=va_hom_s2_prd_p1_l2_9_img","ptitle":"  新加坡6日5晚自由行·【暑期价到亲子游】3+2双酒...","money":"3405"}
+    ],
+    "native":[
+              {"img":"https://dimg04.c-ctrip.com/images/300s0f0000007dpru105F_C_500_280.jpg","a":"http://vacations.ctrip.com/grouptravel/p11487769s2.html#ctm_ref=va_hom_s2_prd_p1_l3_1_img","ptitle":"云南昆明+西双版纳+版纳热带植物园+野象谷6日5晚跟团游(4钻)·3...","money":"2441"},
+              {"img":"https://dimg04.c-ctrip.com/images/300w0j000000a31au9173_C_228_132.png","a":"http://vacations.ctrip.com/grouptravel/p4550061s2.html#ctm_ref=va_hom_s2_prd_p1_l3_2_img","ptitle":"海南三亚5日4晚跟团游(5钻)·[自营纯玩秒杀]全程希...","money":"2363"},
+              {"img":"https://dimg04.c-ctrip.com/images/30040e0000007018xEDA0_C_228_132.jpg","a":"http://vacations.ctrip.com/grouptravel/p16176287s2.html#ctm_ref=va_hom_s2_prd_p1_l2_5_img","ptitle":"德国+法国+瑞士+意大利11日跟团游·3-4星【爆款...","money":"6350"},
+              {"img":"https://dimg04.c-ctrip.com/images/300c0g0000007r32cC5E0_C_228_132.png","a":"http://vacations.ctrip.com/grouptravel/p4539455s2.html#ctm_ref=va_hom_s2_prd_p1_l2_3_img","ptitle":"日本大阪+京都+奈良+名古屋+富士山+东京7日...","money":"6499"},
+              {"img":"https://dimg04.c-ctrip.com/images/300n0a00000050ak3CFDE_C_228_132.jpg","a":"http://vacations.ctrip.com/grouptravel/p2240636s2.html#ctm_ref=va_hom_s2_prd_p1_l4_4_img","ptitle":"巴厘岛+新加坡7日6晚跟团游(5钻)·2018预售★蓝梦...","money":"6980"},
+              {"img":"https://dimg03.c-ctrip.com/images/fd/tg/g6/M04/4A/04/CggYtFafHM2AIamqABZ_GDcairc370_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p5106s2.html#ctm_ref=va_hom_s2_prd_p1_l4_6_img","ptitle":"香港3日自由行·赠DFS/周大福购物返现券【周末游精...","money":"4269"},
+              {"img":"https://dimg03.c-ctrip.com/images/10010h0000008rqfq91B1_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p21138s2.html#ctm_ref=va_hom_s2_prd_p1_l4_7_img","ptitle":"马尔代夫圣塔拉岛（中央格兰德）Centara Grand6日...","money":"15866"},
+              {"img":"https://dimg04.c-ctrip.com/images/300w0a0000004umq4DE47_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p1882054s2.html#ctm_ref=va_hom_s2_prd_p1_l2_8_img","ptitle":"  新加坡6日5晚自由行·【暑期价到亲子游】3+2双酒...","money":"3405"},
+              {"img":"https://dimg03.c-ctrip.com/images/fd/tg/g6/M00/96/9E/CggYs1brxDKAEJu0AAZFNFnjjvA908_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p2004367s2.html#ctm_ref=va_hom_s2_prd_p1_l2_9_img","ptitle":"泰国曼谷+芭提雅+普吉岛8日跟团游·升级钻五★A线快艇PP岛★B线双体...","money":"3000"}
+    ],
+    "around":[
+              {"img":"https://dimg04.c-ctrip.com/images/30060b0000005975eE93B_C_228_132.jpg","a":"/around/p4656455s2.html#ctm_ref=va_hom_s2_prd_p11_l5_1_img","ptitle":"安徽九华山2日跟团游·携程自营 九华祈福纯玩 山...","money":"528"},
+              {"img":"https://dimg04.c-ctrip.com/images/30080b000000598ez127C_C_228_132.jpg","a":"/around/p8395615s2.html#ctm_ref=va_hom_s2_prd_p11_l5_2_img","ptitle":"安徽九华山2日跟团游·祈福九华·宿山上佛教文化酒...","money":"668"},
+              {"img":"https://dimg04.c-ctrip.com/images/30040a0000004qv0q8FC1_C_228_132.jpg","a":"/around/p9578244s2.html#ctm_ref=va_hom_s2_prd_p11_l5_3_img","ptitle":"安徽九华山3日2晚跟团游(3钻)·祈福许愿 巴士直达....","money":"598"},
+              {"img":"https://dimg04.c-ctrip.com/images/300h0a0000004quv829DC_C_228_132.jpg","a":"/around/p7321444s2.html#ctm_ref=va_hom_s2_prd_p11_l5_4_img","ptitle":"安徽九华山2日1晚跟团游(3钻)·【祈福游】 经典纯...","money":"478"},
+              {"img":"https://dimg04.c-ctrip.com/images/300m0a00000052k8w6FAC_C_228_132.jpg","a":"http://taocan.ctrip.com/freetravel/p3407879s2.html#ctm_ref=va_hom_s2_prd_p11_l5_5_img","ptitle":"九华山2日1晚自由行·自选住宿 自由行程 含往返...","money":"398"},
+              {"img":"https://dimg04.c-ctrip.com/images/300m0b000000597qs8189_C_228_132.jpg","a":"/around/p4749312s2.html#ctm_ref=va_hom_s2_prd_p11_l5_6_img","ptitle":"九华山2日1晚自由行·巴士往返 宿山上经济型酒店...","money":"273"},
+              {"img":"https://dimg04.c-ctrip.com/images/30040a0000004qua8FF3D_C_228_132.jpg","a":"/around/p12007403s2.html#ctm_ref=va_hom_s2_prd_p11_l5_7_img","ptitle":"云南昆明+西双版纳+版纳热带植物园+野象谷6日5晚跟团游(4钻)·3...","money":"2441"},
+              {"img":"https://dimg04.c-ctrip.com/images/30040a0000004qua8FF3D_C_228_132.jpg","a":"/around/p10427913s2.html#ctm_ref=va_hom_s2_prd_p11_l5_8_img","ptitle":"云南昆明+西双版纳+版纳热带植物园+野象谷6日5晚跟团游(4钻)·3...","money":"2441"}
+             
+    ],
+    "cruise":[
+              {"img":"http://dimg04.c-ctrip.com/images/fd/cruise/g2/M07/2B/9A/Cghzf1SBevWADlG1AJLng_TaQnc224_R_500_280.jpg","a":"http://cruise.ctrip.com/c/5132s19115.html#ctm_ref=va_hom_s2_prd_p1_l4_1_img","ptitle":"【海洋量子号】海上狂欢 4天3晚","money":"249"},
+              {"img":"http://dimg04.c-ctrip.com/images/310r0f0000007d24pF2A5_R_228_128.jpg","a":"http://cruise.ctrip.com/c/4894s19286.html#ctm_ref=va_hom_s2_prd_p1_l4_2_img","ptitle":"【盛世公主号】福冈 5天4晚","money":"299"},
+              {"img":"http://dimg04.c-ctrip.com/images/fd/cruise/g2/M06/39/65/CghzgFSID9-AdjJOAB1_GXtzM6U495_R_228_128.jpg","a":"http://cruise.ctrip.com/c/4904s19372.html#ctm_ref=va_hom_s2_prd_p1_l4_3_img","ptitle":"【大西洋号】福冈 5天4晚","money":"3499"},
+              {"img":"http://dimg04.c-ctrip.com/images/fd/cruise/g1/M01/1C/64/CghzflR8E-6AJz7kACRHL19HXos493_R_228_128.jpg","a":"http://cruise.ctrip.com/c/1428s19412.html#ctm_ref=va_hom_s2_prd_p1_l4_4_img","ptitle":"【赛琳娜号】长崎 5天4晚","money":"3599"},
+              {"img":"http://dimg04.c-ctrip.com/images/310m0b0000005z2boFE6A_R_228_128.png","a":"http://cruise.ctrip.com/c/5077s20099.html#ctm_ref=va_hom_s2_prd_p1_l4_5_img","ptitle":"【喜悦号】长崎 5天4晚","money":"3799"}
+              
+             
+    ],
+    "play":[
+              {"img":"https://dimg04.c-ctrip.com/images/350q0i0000009cp9jA6D8_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/3770036.html#ctm_ref=va_hom_s2_prd_p4_l6_1_img","ptitle":"【年度热卖 富士泡汤】富士山五合目+河口湖+忍野八海+温泉中文拼车/包车一日游（东京往返，温泉之旅）","money":"379"},
+              {"img":"https://dimg06.c-ctrip.com/images/350p0g0000007rt8k2E6C_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/2704929.html#ctm_ref=va_hom_s2_prd_p4_l6_2_img","ptitle":"【冲绳夏日狂欢祭 199限时抢购】万座毛+古宇利+水族馆+美国村北部巴士日游（冲绳独家免费接机&水族","money":"286"},
+              {"img":"https://dimg06.c-ctrip.com/images/fd/tg/g2/M08/8B/DD/CghzgVWw7qKAdtG8ABEMHc-sDLg500_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/3601800.html#ctm_ref=va_hom_s2_prd_p4_l6_3_img","ptitle":"【中巴市区饭店接送】花莲?垦丁双向一日游（海线，1人成行）","money":"197"},
+              {"img":"https://dimg04.c-ctrip.com/images/350i0a0000004efu779D5_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/1982484.html#ctm_ref=va_hom_s2_prd_p4_l6_4_img","ptitle":"【多49即有SPA】巴厘岛 蓝梦岛海底漫步+浮潜+香蕉船+独木舟水上一日游【当月特价/巴厘岛大促】","money":"569"},
+              {"img":"https://dimg04.c-ctrip.com/images/t1/activity/381/810/163/56b524b910654aafb69a8bf3c6ccccd1_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/1850435.html#ctm_ref=va_hom_s2_prd_p4_l6_5_img","ptitle":"巴厘岛阿勇河漂流+乌布皇宫+乌布艺术市场一日游【暑期多人特惠·私家游】","money":"349"},
+              {"img":"https://dimg04.c-ctrip.com/images/3501090000003say597AA_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/2267547.html#ctm_ref=va_hom_s2_prd_p4_l6_6_img","ptitle":"【9.5折！高品质推荐】巴厘岛阿勇河/特拉嘎河漂流半日游（含接送）【Sobek公司】","money":"294"},
+              {"img":"https://dimg04.c-ctrip.com/images/fd/activity/g4/M01/41/B0/CggYHFarKXKACmeoABj6JsuDCQo751_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/1974353.html#ctm_ref=va_hom_s2_prd_p4_l6_7_img","ptitle":"【哔哔巴士】巴厘岛精选包车服务【可选车型?服务时长?中文导游服务】","money":"87"},
+              {"img":"https://dimg06.c-ctrip.com/images/350l0h0000008tapqE74F_C_182_102.jpg","a":"http://huodong.ctrip.com/activity/10652471.html#ctm_ref=va_hom_s2_prd_p4_l6_8_img","ptitle":" 【大阪酒店接送】神户一日游【奥特莱斯+有马温泉+日本三大夜景】 赠送日本最高楼人气展望台门票价值10","money":"379"}
+              
+             
+    ]
+}
